@@ -3,7 +3,7 @@
 #### A DevOps Engineer by day ☼ and a SRE by night ☾
 
 - ⚙️ I use daily: `Kubernetes`, `Docker`, `AWS`, `Azure`, `GCP`, `GitOps`, `CI/CD`
-- 🌍 I'm mostly active within the **Bare Metal Soulution to build HA clusters**
+- 🌍 I'm mostly active within the **Bare Metal Solution to build HA K8s clusters**
 - 💬 `ping` me about **devops**, **ha**, **clouds**, **K8s**, **ci/cd**
 
 
