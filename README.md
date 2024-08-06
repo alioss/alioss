@@ -1,9 +1,9 @@
-### Hello there 👋
+# 🏄‍♂️ Andrew Bushchuk
 
-#### A DevOps Engineer by day ☼ and a SRE by night ☾
+**`DevOps/Cloud Engineer (AWS/Azure/GCP/Kubernetes/GitOps)`**
 
-- ⚙️ I use daily: `Kubernetes`, `Docker`, `AWS`, `Azure`, `GCP`, `GitOps`, `CI/CD`
-- 🌍 I'm mostly active within the **Bare Metal Solution to build HA K8s clusters**
+I'm a DevOps/SRE engineer, dedicated to crafting efficient and scalable cloud solutions. I have crucial experience in building high-availability solutions based on bare metal servers. I thrive on transforming complex problems into streamlined workflows, ensuring reliability and performance. Whether it's designing robust infrastructure or automating deployments, every project reflects my commitment to innovation and excellence in the digital realm.
+
 - 💬 `ping` me about **devops**, **ha**, **clouds**, **K8s**, **ci/cd**
 
 
