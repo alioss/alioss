@@ -2,9 +2,9 @@
 
 **`DevOps/Cloud Engineer (AWS/Azure/GCP/Kubernetes/GitOps)`**
 
-I'm a DevOps/SRE engineer, dedicated to crafting efficient and scalable cloud solutions. I have crucial experience in building high-availability solutions based on bare metal servers. I thrive on transforming complex problems into streamlined workflows, ensuring reliability and performance. Whether it's designing robust infrastructure or automating deployments, every project reflects my commitment to innovation and excellence in the digital realm.
+I'm a DevOps engineer and Ops Blockchain Engineer, dedicated to crafting efficient and scalable cloud solutions. I have crucial experience in building high-availability solutions based on bare metal servers. Additionally, I am an Ops Node Engineer with extensive experience in maintaining various blockchain nodes. I thrive on transforming complex problems into streamlined workflows, ensuring reliability and performance. Whether it's designing robust infrastructure or automating deployments, every project reflects my commitment to innovation and excellence in the digital realm.
 
-- 💬 `ping` me about **devops**, **ha**, **clouds**, **K8s**, **ci/cd**
+- 💬 `ping` me about **devops**, **clouds**, **mare metal**, **K8s**, **ci/cd**, **ethereum node**
 
 
 <h4 align="left">Languages and Tools:</h4>
