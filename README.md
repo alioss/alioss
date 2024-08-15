@@ -4,7 +4,7 @@
 
 I'm a DevOps engineer and Ops Blockchain Engineer, dedicated to crafting efficient and scalable cloud solutions. I have crucial experience in building high-availability solutions based on bare metal servers. Additionally, I am an Ops Node Engineer with extensive experience in maintaining various blockchain nodes. I thrive on transforming complex problems into streamlined workflows, ensuring reliability and performance. Whether it's designing robust infrastructure or automating deployments, every project reflects my commitment to innovation and excellence in the digital realm.
 
-- 💬 `ping` me about **devops**, **clouds**, **bare metal**, **K8s**, **ci/cd**, **blockchain nodes**
+- 💬 `ping` me about **DevOps**, **Clouds**, **Bare Metal**, **K8s**, **CI/CD**, **Blockchain nodes**
 
 
 <h4 align="left">Languages and Tools:</h4>
