@@ -1,4 +1,4 @@
-# 🏄‍♂️ Andrew Bushchuk
+# 🏄‍♂️ Andrii Bushchuk
 
 **`DevOps/Cloud Engineer (AWS/Azure/GCP/Kubernetes/GitOps)`**
 
